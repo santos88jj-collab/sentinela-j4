@@ -1,0 +1,9 @@
+# Configuração pessoal (tópico do ntfy funciona como senha)
+sentinela.json
+
+# Logs gerados no celular
+*.log
+batlog.txt
+
+# Python
+__pycache__/

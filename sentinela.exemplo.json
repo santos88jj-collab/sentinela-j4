@@ -1,0 +1,7 @@
+{
+  "ntfy_topico": "sentinela-troque-por-um-nome-dificil",
+  "roteador": "192.168.0.1",
+  "limitar_carga": false,
+  "usar_sms": false,
+  "dono": ""
+}
